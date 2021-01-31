@@ -1,4 +1,4 @@
-public class ContaCorrente extends Conta{
+public class ContaCorrente extends  Conta {
     private double chequeEspecial;
 
     public ContaCorrente(int numero, int agencia, String banco, double saldo, double chequeEspecial) {
